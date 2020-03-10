@@ -19,6 +19,24 @@ export const Container = styled.div`
   }
 `;
 
+export const RepoList = styled.ul`
+  list-style: none;
+  padding: 20px 10px;
+
+  li {
+    margin-top: 15px;
+    padding-bottom: 10px;
+    border-bottom: 1px solid #999;
+
+    display: flex;
+    justify-content: space-between;
+
+    a {
+      text-decoration: none;
+    }
+  }
+`;
+
 export const Form = styled.form`
   margin-top: 30px;
   display: flex;
@@ -43,5 +61,10 @@ export const SubmitButton = styled.button`
 
   display: flex;
   align-items: center;
-  justify-content: center
+  justify-content: center;
+
+  &[disabled] {
+    cursor: not-allowed;
+    opacity: 0.6;
+  }
 `;
