@@ -1,4 +1,4 @@
-## <div align="center"><img src="https://github.githubassets.com/images/modules/open_graph/github-mark.png" width="130" height="130" /></div>
+## <div align="center"><img src="https://github.githubassets.com/images/modules/open_graph/github-mark.png" /></div>
 
 ###
 
