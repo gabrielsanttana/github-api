@@ -10,6 +10,8 @@
 
 <ul>
   <li><a href="https://reactjs.org/">React</a></li>
+  <li><a href="https://styled-components.com/">Styled Components</a></li>
+  <li><a href="https://www.npmjs.com/package/axios">Axios</a></li>
 </ul>
 
 ## ⚙️ Requirements
