@@ -4,10 +4,6 @@
 
 <p align="center">A simple application that uses GitHub's API to list repositories</p>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/gabrielsanttana/tindev/59dc977bedbf2f23d4a29793cfd6067b15886a5d/frontend/src/assets/logo.svg" />
-</div>
-
 #####
 
 ## 🛠️ Technologies
